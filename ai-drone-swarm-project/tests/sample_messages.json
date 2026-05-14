@@ -1,0 +1,20 @@
+[
+  {
+    "drone_id": "drone_1",
+    "timestamp": "2026-01-15T12:30:00Z",
+    "object": "tree",
+    "distance": 8,
+    "direction": "front",
+    "confidence": 0.89,
+    "location": [34.5, -118.2, 15.0]
+  },
+  {
+    "drone_id": "drone_2",
+    "timestamp": "2026-01-15T12:31:00Z",
+    "object": "person",
+    "distance": 25,
+    "direction": "left",
+    "confidence": 0.92,
+    "location": [34.6, -118.1, 15.0]
+  }
+]

@@ -1,0 +1,7 @@
+opencv-python
+ultralytics
+paho-mqtt
+transformers
+accelerate
+torch
+pytest
